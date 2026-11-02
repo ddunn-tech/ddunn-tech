@@ -1,19 +1,15 @@
-# I am Drew Dunn
+## Drew Dunn
 
 **Senior AI Engineer & Computational Scientist**
 
-## Focus Areas
-ML Pipeline Architecture, Advanced Statistical Modeling, Deep Learning Research, Feature Engineering at Scale
+### ML Specialization: Distributed Learning Systems
 
-## ML Experience
-- Architected end-to-end ML pipelines processing 100M+ records daily using Spark and distributed computing
-- Developed custom deep learning models for time-series forecasting with 92% accuracy improvement
-- Led research initiatives in federated learning and privacy-preserving machine learning techniques
-- Built production ML systems handling real-time inference with sub-100ms latency requirements
+Built large-scale ML infrastructure processing 100M+ records daily. Expertise in:
+- PyTorch distributed training across GPU clusters
+- Feature pipelines with Apache Spark and Delta Lake
+- ML model lifecycle management and versioning
+- Statistical analysis for hypothesis testing
 
-## Connect
-- GitHub: [@ddunn-tech](https://github.com/ddunn-tech)  
-- LinkedIn: [Profile](https://linkedin.com/in/ddunn-tech)
+**Key Achievement:** Reduced model training time from 72 hours to 8 hours through optimization.
 
----
-*Building solutions that matter.*
+Recent Work: LLM infrastructure, RAG systems, federated learning research
