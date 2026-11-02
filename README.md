@@ -1,13 +1,17 @@
-I am Drew Dunn
+# Drew Dunn
 
-**Senior ML Engineer - Distributed Systems**
+Senior ML Engineer | Distributed Systems Specialist
 
-Built large-scale ML infrastructure processing 100M+ records daily. Expertise in:
-- PyTorch distributed training across GPU clusters
-- Feature pipelines with Apache Spark and Delta Lake
-- ML model lifecycle management and versioning
-- Statistical analysis for hypothesis testing
+## Technical Summary
 
-**Key Achievement:** Reduced model training time from 72 hours to 8 hours through optimization.
+Building large-scale machine learning infrastructure. Currently focused on distributed training, feature engineering at scale, and ML systems design.
 
-Recent Work: LLM infrastructure, RAG systems, federated learning research
+**Primary Expertise:**
+- PyTorch distributed training
+- Apache Spark data pipelines
+- Model lifecycle management
+- Statistical modeling
+
+**Recent:** LLM infrastructure, RAG systems, federated learning
+
+**Achievement:** Reduced model training time from 72 hours to 8 hours through optimization and distributed architecture.
