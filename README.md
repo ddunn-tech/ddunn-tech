@@ -1,16 +1,22 @@
-## Hi there 👋
+# I am Drew Dunn
 
-<!--
-**ddunn-tech/ddunn-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## What I Do
+Building Healthcare & Fintech Technology with focus on AI/ML Engineering, Python, TensorFlow, PyTorch, Apache Spark, Databricks, RAG Pipelines, LLM Systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Core Skills
+AI/ML Engineering, Python, TensorFlow, PyTorch, Apache Spark, Databricks, RAG Pipelines, LLM Systems
+
+### Why Work With Me?
+✨ Production-ready code  
+⚡ Scalable architectures  
+🔧 Full-stack capabilities  
+📚 Mentorship-oriented  
+
+### Let's Connect
+[GitHub](https://github.com/ddunn-tech) • [LinkedIn](https://linkedin.com/in/ddunn-tech)
+
+---
+
+*Drew Dunn | Engineer | Builder*
