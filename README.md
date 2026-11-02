@@ -1,22 +1,15 @@
-# I am Drew Dunn
+# Drew Dunn
 
----
+**AI/ML Systems Engineer**
 
-## What I Do
-Building Healthcare & Fintech Technology with focus on AI/ML Engineering, Python, TensorFlow, PyTorch, Apache Spark, Databricks, RAG Pipelines, LLM Systems.
+Building production-grade machine learning systems and AI infrastructure. Specializing in:
+- Large language model architectures and fine-tuning
+- Distributed computing and data pipelines
+- Healthcare and fintech applications
+- RAG systems and vector databases
 
-### Core Skills
-AI/ML Engineering, Python, TensorFlow, PyTorch, Apache Spark, Databricks, RAG Pipelines, LLM Systems
+## Experience & Focus
+Healthcare and fintech technology, with emphasis on regulatory compliance and data integrity. Strong background in both academic research and production engineering.
 
-### Why Work With Me?
-✨ Production-ready code  
-⚡ Scalable architectures  
-🔧 Full-stack capabilities  
-📚 Mentorship-oriented  
-
-### Let's Connect
-[GitHub](https://github.com/ddunn-tech) • [LinkedIn](https://linkedin.com/in/ddunn-tech)
-
----
-
-*Drew Dunn | Engineer | Builder*
+## Core Technologies
+Python, TensorFlow, PyTorch, Apache Spark, Databricks, SQL, AWS, Kubernetes
