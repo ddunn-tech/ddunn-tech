@@ -1,8 +1,6 @@
-## Drew Dunn
+I am Drew Dunn
 
-**Senior AI Engineer & Computational Scientist**
-
-### ML Specialization: Distributed Learning Systems
+**Senior ML Engineer - Distributed Systems**
 
 Built large-scale ML infrastructure processing 100M+ records daily. Expertise in:
 - PyTorch distributed training across GPU clusters
